@@ -1,3 +1,4 @@
 # updates
-Updates to esp8266 firmware
-Repositorio creado par las actualizacióne autmáticas de sensores inteligentes con ESP8266.
+Updates to esp8266 firmware.
+
+Repositorio creado par las actualizaciónes automáticas de sensores inteligentes con ESP8266.
